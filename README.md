@@ -49,9 +49,6 @@
 </p>
 
 <hr />
-<br />
-
-<hr />
 
 <!-- CONTACTO Y REDES -->
 <div align="center">
