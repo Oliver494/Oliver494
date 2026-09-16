@@ -49,18 +49,6 @@
 </p>
 
 <hr />
-
-<!-- SECCIÓN ESTADÍSTICAS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <!-- Estadísticas Generales -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Oliver494&show_icons=true&theme=dark&hide_border=true" alt="Oliver's GitHub Stats" />
-  
-  <!-- Lenguajes más usados -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Oliver494&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
 <br />
 
 <hr />
