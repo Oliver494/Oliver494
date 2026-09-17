@@ -7,12 +7,12 @@
 <br />
 
 <p>
-  <img src="https://img.shields.io/badge/BUILDING-Vareliox%20AI-7C3AED?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="Building Vareliox AI" />
-  <img src="https://img.shields.io/badge/FOCUS-Local--First%20AI-2563EB?style=for-the-badge&labelColor=111827&logo=ollama&logoColor=white" alt="Focus Local-First AI" />
+  <img src="https://img.shields.io/badge/BUILDING-Vareliox%20AI-7C3AED?style=for-the-badge&labelColor=5B21B6&logo=github&logoColor=white" alt="Building Vareliox AI" />
+  <img src="https://img.shields.io/badge/FOCUS-Local--First%20AI-2563EB?style=for-the-badge&labelColor=1D4ED8&logo=ollama&logoColor=white" alt="Focus Local-First AI" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/EXPLORING-Cybersecurity-16A34A?style=for-the-badge&labelColor=111827&logo=hackthebox&logoColor=white" alt="Exploring Cybersecurity" />
-  <img src="https://img.shields.io/badge/SYSTEMS-Linux%20%26%20Networking-D97706?style=for-the-badge&labelColor=111827&logo=linux&logoColor=white" alt="Linux and Networking" />
+  <img src="https://img.shields.io/badge/EXPLORING-Cybersecurity-16A34A?style=for-the-badge&labelColor=15803D&logo=hackthebox&logoColor=white" alt="Exploring Cybersecurity" />
+  <img src="https://img.shields.io/badge/SYSTEMS-Linux%20%26%20Networking-D97706?style=for-the-badge&labelColor=B45309&logo=linux&logoColor=white" alt="Linux and Networking" />
 </p>
 
 </div>
@@ -48,14 +48,14 @@ The project focuses on:
 ## Tech Stack & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=FFFFFF" alt="Rust" />
-  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
@@ -63,10 +63,10 @@ The project focuses on:
 ## Currently Exploring
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Networking" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Local%20AI-111827?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Local AI" />
+  <img src="https://img.shields.io/badge/Linux-D97706?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Networking-0284C7?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Cybersecurity-16A34A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Local%20AI-7C3AED?style=for-the-badge&logo=ollama&logoColor=white" alt="Local AI" />
 </p>
 
 ---
