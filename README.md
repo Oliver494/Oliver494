@@ -119,19 +119,23 @@ My main areas of study right now are software development, AI, Linux, networking
 
 <p>
   <a href="https://github.com/Oliver494" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/6E7781" width="42" height="42" alt="GitHub" title="GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/HeyOliverTech" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://cdn.simpleicons.org/x/6E7781" width="42" height="42" alt="X" title="X" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/heyolivertech/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" title="Instagram" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@uB5ZA1HW0TcTac" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="42" height="42" alt="YouTube" title="YouTube" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@heyolivertech" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://cdn.simpleicons.org/tiktok/25F4EE" width="42" height="42" alt="TikTok" title="TikTok" />
   </a>
 </p>
 
