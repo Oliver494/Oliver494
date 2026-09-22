@@ -118,25 +118,11 @@ My main areas of study right now are software development, AI, Linux, networking
 ## Connect with Me
 
 <p>
-  <a href="https://github.com/Oliver494" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/HeyOliverTech" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X" title="X" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/heyolivertech/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="42" height="42" alt="Instagram" title="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@uB5ZA1HW0TcTac" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="42" height="42" alt="YouTube" title="YouTube" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@heyolivertech" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" width="42" height="42" alt="TikTok" title="TikTok" />
-  </a>
+<a href="https://github.com/Oliver494" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/HeyOliverTech" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X" title="X"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/heyolivertech/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="42" height="42" alt="Instagram" title="Instagram"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@uB5ZA1HW0TcTac" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="42" height="42" alt="YouTube" title="YouTube"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@heyolivertech" target="_blank"><img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" width="42" height="42" alt="TikTok" title="TikTok"></a>
 </p>
 
 </div>
