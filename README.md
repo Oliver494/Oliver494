@@ -56,13 +56,35 @@ The project focuses on:
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React / TSX" title="React / TSX" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/tauri/24C8DB" width="48" height="48" alt="Tauri" title="Tauri" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL / SQL" title="PostgreSQL / SQL" />
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="48" height="48" alt="Django" title="Django" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" title="Flask" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" title="Redis" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash / Shell" title="Bash / Shell" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" title="PowerShell" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/json/5E5C5C" width="48" height="48" alt="JSON" title="JSON" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/yaml/CB171E" width="48" height="48" alt="YAML" title="YAML" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/toml/9C4121" width="48" height="48" alt="TOML" title="TOML" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/markdown/000000" width="48" height="48" alt="Markdown" title="Markdown" />
 </p>
 
 ---
