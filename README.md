@@ -70,10 +70,13 @@ The project focuses on:
 ## Currently Exploring
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-D97706?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Networking-0284C7?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Cybersecurity-16A34A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Local%20AI-7C3AED?style=for-the-badge&logo=ollama&logoColor=white" alt="Local AI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Networking" title="Networking" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="48" height="48" alt="Cybersecurity" title="Cybersecurity" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/7C3AED" width="48" height="48" alt="Local AI" title="Local AI" />
 </p>
 
 ---
