@@ -2,19 +2,19 @@
 
 # Hi, I'm Oliver
 
-### Creator of [Vareliox AI](https://github.com/Oliver494/vareliox-ai) | Software, AI & Technology
+### Creator of [Vareliox AI](https://github.com/Oliver494/Vareliox-AI) & [Voz Local](https://github.com/Oliver494/Voz-local) | Software, AI & Technology
 
 <br />
 
 <p>
   <img src="https://img.shields.io/badge/BUILDING-Vareliox%20AI-7C3AED?style=for-the-badge&labelColor=5B21B6&logo=github&logoColor=white" alt="Building Vareliox AI" />
-  <img src="https://img.shields.io/badge/FOCUS-Local--First%20AI-2563EB?style=for-the-badge&labelColor=1D4ED8&logo=ollama&logoColor=white" alt="Focus Local-First AI" />
+  <img src="https://img.shields.io/badge/BUILDING-Voz%20Local-E11D48?style=for-the-badge&labelColor=BE123C&logo=python&logoColor=white" alt="Building Voz Local" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/FOCUS-Local--First%20AI-2563EB?style=for-the-badge&labelColor=1D4ED8&logo=ollama&logoColor=white" alt="Focus Local-First AI" />
   <img src="https://img.shields.io/badge/EXPLORING-Cybersecurity-16A34A?style=for-the-badge&labelColor=15803D&logo=hackthebox&logoColor=white" alt="Exploring Cybersecurity" />
   <img src="https://img.shields.io/badge/SYSTEMS-Linux%20%26%20Networking-D97706?style=for-the-badge&labelColor=B45309&logo=linux&logoColor=white" alt="Linux and Networking" />
 </p>
-
 </div>
 
 ---
@@ -23,15 +23,17 @@
 
 I build software, experiment with AI and enjoy learning how technology works beyond the surface.
 
-My current focus is on software development, local AI, Linux, networking, cybersecurity and privacy-focused tools.
+My current focus is on software development, local AI, voice technology, Linux, networking, cybersecurity and privacy-focused tools.
 
 I use GitHub to build real projects, experiment with new technologies and document what I learn along the way.
 
 ---
 
-## Featured Project: Vareliox AI
+## Featured Projects
 
-**Vareliox AI** is a local-first AI workspace designed to bring different AI models and development workflows into one desktop environment.
+### Vareliox AI
+
+**Vareliox AI** is a local-first AI workspace for chat, coding agents, media creation and local or cloud AI models.
 
 The project focuses on:
 
@@ -39,9 +41,23 @@ The project focuses on:
 * **Flexible AI providers:** Work with both local models and optional cloud providers.
 * **Privacy and control:** Keep more control over how and where your data is processed.
 * **Developer workflows:** Built with coding, experimentation and productivity in mind.
-* **Simple desktop experience:** Designed to reduce unnecessary setup and friction.
+* **Desktop experience:** Designed to bring multiple AI workflows into one application.
 
-[View Vareliox AI on GitHub](https://github.com/Oliver494/vareliox-ai)
+[View Vareliox AI on GitHub](https://github.com/Oliver494/Vareliox-AI)
+
+### Voz Local
+
+**Voz Local** is a free local voice-cloning and narration app built around **Qwen3-TTS**. It lets you record or upload a voice sample, write a script, generate speech and export the result as WAV or MP3.
+
+The project focuses on:
+
+* **Local voice cloning:** Voice generation runs on your own computer.
+* **Simple workflow:** Save a voice sample, write a script and generate narration from the browser.
+* **English and Spanish:** The interface supports both languages.
+* **Multiple platforms:** Launchers are provided for Windows, Linux and Apple Silicon macOS.
+* **User control:** Voice samples, projects, models and exports are stored locally.
+
+[View Voz Local on GitHub](https://github.com/Oliver494/Voz-local)
 
 ---
 
@@ -85,6 +101,16 @@ The project focuses on:
   <img src="https://cdn.simpleicons.org/toml/9C4121" width="48" height="48" alt="TOML" title="TOML" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/markdown/000000" width="48" height="48" alt="Markdown" title="Markdown" />
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI" title="FastAPI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" title="SQLite" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="48" height="48" alt="FFmpeg" title="FFmpeg" />
 </p>
 
 ---
